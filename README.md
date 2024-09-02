@@ -11,7 +11,14 @@
 ![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mrhamza794&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Hamza's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mrhamza794&theme=dark&hide_border=false)<br/>
 ![Hamza's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza794&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![Hamza's Contributions](https://github-contributions.vercel.app/api/v1/mrhamza794)
+
+### Contributions Overview (Static Data)
+- **Total Contributions:** 1500+
+- **Repositories Contributed To:** 30+
+- **Commits in 2024:** 800+
+- **Issues Opened:** 50+
+- **Pull Requests Merged:** 40+
+- **Total Stars Earned:** 200+
 
 
 ---
