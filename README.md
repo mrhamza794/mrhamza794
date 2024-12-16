@@ -10,7 +10,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrhamza794&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza794&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza794&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza794&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://camo.githubusercontent.com/b1b2e98662e92dc9ecdd9eaf32fa258cfa6b0203ac001685f2fe916368e4691f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d756d6169726162626173373836267468656d653d6461726b26686964655f626f726465723d66616c7365)) <br/>
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrhamza794&icon=0&color=0)](https://visitcount.itsvg.in)
