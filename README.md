@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mrhamza794<br>- 👀 I’m interested in JavaScript, especially in React.js, Next.js, and the MERN stack.<br>- 🌱 I’m currently learning Vue.js to expand my front-end development skills.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the React and MERN ecosystem.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamza-choudhary-64387b1b1/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks and tools to keep my skills sharp!
+- 👋 Hi, I’m @mrhamza794<br>- 👀 I’m interested in JavaScript, especially in React.js, Next.js, and the MERN stack.<br>- 🌱 I’m currently learning React Native to expand my front-end development skills.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the React and MERN ecosystem.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamza-choudhary-64387b1b1/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks and tools to keep my skills sharp!
 
 
 ## 🌐 Socials:
