@@ -17,6 +17,8 @@
  # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrhamza794&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
+# 🐍 Contribution Snake
+![snake gif](https://github.com/mrhamza794/mrhamza794/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=mrhamza794&icon=0&color=0)](https://visitcount.itsvg.in)
 
