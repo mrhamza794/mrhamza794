@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=36BCF7&vCenter=true&width=900&lines=Hi%2C+I'm+Hamza+%F0%9F%91%8B;React+%7C+Next.js+%7C+MERN+Developer+%F0%9F%9A%80;Learning+React+Native+%F0%9F%93%B1;Turning+coffee+into+components+%E2%98%95%F0%9F%A7%A9)](https://git.io/typing-svg)
+
 # 💫 About Me:
 - 👋 Hi, I’m @mrhamza794<br>- 👀 I’m deeply interested in JavaScript — especially React.js, Next.js, and the MERN stack (yes, I debug JavaScript by choice 😄).<br>- 🌱 I’m currently learning React Native to expand my front-end superpowers into the mobile world.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the NEXT JS and MERN ecosystem.<br>- 🚀 I enjoy building fast, scalable, and clean user experiences that actually make users happy.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamza-choudhary-64387b1b1/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks… even though a new one drops the moment I finally understand the previous one ☕🚀
 
