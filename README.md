@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mrhamza794<br>- 👀 I’m interested in JavaScript, especially in React.js, Next.js, and the MERN stack.<br>- 🌱 I’m currently learning React Native to expand my front-end development skills.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the NEXT JS and MERN ecosystem.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamza-choudhary-64387b1b1/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks and tools to keep my skills sharp.
+- 👋 Hi, I’m @mrhamza794<br>- 👀 I’m deeply interested in JavaScript — especially React.js, Next.js, and the MERN stack (yes, I debug JavaScript by choice 😄).<br>- 🌱 I’m currently learning React Native to expand my front-end superpowers into the mobile world.<br>- 💞️ I’m looking to collaborate on exciting JavaScript projects, particularly in the NEXT JS and MERN ecosystem.<br>- 🚀 I enjoy building fast, scalable, and clean user experiences that actually make users happy.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamza-choudhary-64387b1b1/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love exploring new JavaScript frameworks… even though a new one drops the moment I finally understand the previous one ☕🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MrHamzaCh794/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/p/C_YCetFptfA/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-choudhary-64387b1b1/) 
@@ -14,8 +14,6 @@
 
  # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrhamza794&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrhamza794&icon=0&color=0)](https://visitcount.itsvg.in)
